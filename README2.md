@@ -1,4 +1,4 @@
-{% extends "./README.md" %}
+[IMPORT README]
 **My 2nd page**
 
 My Second markdown page
