@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](./README.md "San Juan Mountains")
+{% include "./README.md " %}
 **My 2nd page**
 
 My Second markdown page
