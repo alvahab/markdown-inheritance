@@ -1,4 +1,4 @@
-{% include "./README.md" %}
+{% extends "./README.md" %}
 **My 2nd page**
 
 My Second markdown page
