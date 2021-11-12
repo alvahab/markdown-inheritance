@@ -13,6 +13,6 @@
 
 ```diff
 - text in red
-**My first markdown page**
-**My first markdown page**
+- **My first markdown page**
+- **My first markdown page**
 ```
