@@ -11,8 +11,6 @@
 @@ text in purple (and bold)@@
 ```
 
-```diff
 - text in red
 - **My first markdown page**
 - **My first markdown page**
-```
